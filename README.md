@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm amaalselim</h1>
-<h3 align="center">A Backend developer from Egypt</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaalselim&label=Profile%20views&color=0e75b6&style=flat" alt="amaalselim" /> </p>
+<h1 align="center">Hi 👋, I'm amaal selim</h1>
+<h2 align="center">A Backend developer from Egypt</h2>
 <img align="right" alt="Coding" width="550" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.gif">
-- 🌱 I’m currently learning **.Net**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaalselim&label=Profile%20views&color=0e75b6&style=flat" alt="amaalselim" /> </p>
 
-- 💬 Ask me about **html,css,c++,c#**
+<p align="left"> <a href="https://twitter.com/amaalslym" target="blank"><img src="https://img.shields.io/twitter/follow/amaalslym?logo=twitter&style=for-the-badge" alt="amaalslym" /></a> </p>
+🌱 I’m currently learning **.Net**
+
+💬 Ask me about **html,css,c++,c#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
