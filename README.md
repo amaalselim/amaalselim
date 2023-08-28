@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A Backend developer from Egypt" alt="Typing SVG" /></a>
 
 <h3 align="center"></h3>
-<img align="right" alt="Coding" width="550" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.gif">
+<img align="right" alt="Coding" width="475" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaalselim&label=Profile%20views&color=0e75b6&style=flat" alt="amaalselim" /> </p>
 
