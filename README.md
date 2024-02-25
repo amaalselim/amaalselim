@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning **.Net**
 
-💬 Ask me about **html,css,c++,c#**
+💬 Ask me about **html,css,c++,c#, MS SQL Server,LINQ,Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
