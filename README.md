@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **.Net**
 
-💬 Ask me about ** HTML , CSS , C++ , Python , C# , MS SQL Server , LINQ **
+💬 Ask me about ** HTML , CSS , Js, C++ , Python , C# , MS SQL Server , LINQ ,EntityFramework Core,Asp.Net MVC Core**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
