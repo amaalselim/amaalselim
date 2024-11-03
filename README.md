@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amaal Selim</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaalselim&label=Profile%20views&color=0e75b6&style=flat" alt="amaalselim" /> </p>
-
 🌱 I’m currently learning **.Net**
 
 💬 Ask me about ** HTML , CSS , Js, C++ , Python , C# , MS SQL Server , LINQ ,EntityFramework Core,Asp.Net MVC Core**
