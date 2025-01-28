@@ -7,7 +7,7 @@ abilities,teamwork and a solid understanding of OOP,SOLID Principles and Clean A
   <br><br>
 </p>
 
-<h2 align="center">Contact with me:</h2>
+<h2 align="center">🌐 Socials</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/amaal-selim-b7501228b/" target="blank">
 <img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000" alt="LinkedIn"/></a>
@@ -16,7 +16,7 @@ abilities,teamwork and a solid understanding of OOP,SOLID Principles and Clean A
   </a>
 </p>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
   <img src="https://img.icons8.com/?size=50&id=mhwmyz1eu7T5&format=png&color=000000" alt="C#"/>
   <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000" alt="C++"/>
@@ -32,13 +32,19 @@ abilities,teamwork and a solid understanding of OOP,SOLID Principles and Clean A
   <img src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000" alt="Git"/>
   <img src="https://img.icons8.com/?size=50&id=efFfwotdkiU5&format=png&color=000000" alt="GitHub"/>
 </p>
-<br><br>
+<br>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/amaalselim">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amaalselim&stars=true&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" alt="Amaal GitHub stats"/>
   </a>
 </p>
-
 <p align="center">
     <img  alt="Top Languages" src="https://github-readme-stats.vercel.app/api?username=amaalselim&hide_border=true&langs_count=8&layout=compact&theme=radical" alt="amaalselim"/>
 </p>
+<br>
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amaalselim&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
