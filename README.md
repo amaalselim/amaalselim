@@ -7,7 +7,7 @@ abilities,teamwork and a solid understanding of OOP,SOLID Principles and Clean A
   <br><br>
 </p>
 
-<h2 align="center">🌐 Socials</h2>
+<h2 align="center">🌐 Social</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/amaal-selim-b7501228b/" target="blank">
 <img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000" alt="LinkedIn"/></a>
